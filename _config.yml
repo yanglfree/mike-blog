@@ -12,7 +12,8 @@ language: zh-CN
 timezone: UTC
 
 # URL
-url: https://yanglfree.github.io
+url: https://www.fq6825.top
+root: /
 permalink: :title/
 permalink_defaults:
 
