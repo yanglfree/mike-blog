@@ -12,7 +12,7 @@ language: zh-CN
 timezone: UTC
 
 # URL
-url: https://www.fq6825.top
+url: https://fq6825.top
 root: /
 permalink: :title/
 permalink_defaults:
