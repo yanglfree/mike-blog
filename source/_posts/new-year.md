@@ -87,7 +87,11 @@ tags:
 
 ## 📊 数据可视化
 
+2025年Github数据
+
 ![2025年Github贡献表](/images/github_contributions.png)
+
+![2025年Github数据](/images/github_wrapped.png)
 
 ---
 
