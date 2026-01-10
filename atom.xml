@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>毛豆的毛豆Y的博客</title>
+  
+  
+  <link href="https://fq6825.top/atom.xml" rel="self"/>
+  
+  <link href="https://fq6825.top/"/>
+  <updated>2026-01-10T15:39:56.467Z</updated>
+  <id>https://fq6825.top/</id>
+  
+  <author>
+    <name>毛豆的毛豆Y</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用闲置的树莓派VibeCoding</title>
+    <link href="https://fq6825.top/%E5%88%A9%E7%94%A8%E9%97%B2%E7%BD%AE%E7%9A%84%E6%A0%91%E8%8E%93%E6%B4%BEVibeCoding/"/>
+    <id>https://fq6825.top/%E5%88%A9%E7%94%A8%E9%97%B2%E7%BD%AE%E7%9A%84%E6%A0%91%E8%8E%93%E6%B4%BEVibeCoding/</id>
+    <published>2026-01-10T23:34:43.000Z</published>
+    <updated>2026-01-10T15:39:56.467Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>github_trending</title>
+    <link href="https://fq6825.top/github-trending/"/>
+    <id>https://fq6825.top/github-trending/</id>
+    <published>2026-01-02T17:47:12.000Z</published>
+    <updated>2026-01-10T15:39:56.467Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2025 年度总结：拥抱 AI，驶向未知</title>
+    <link href="https://fq6825.top/new-year/"/>
+    <id>https://fq6825.top/new-year/</id>
+    <published>2026-01-01T22:21:17.000Z</published>
+    <updated>2026-01-10T15:39:56.467Z</updated>
+    
+    <content type="html"><![CDATA[<p>2026 年的第一缕晨光洒在键盘上，我终于把迟来的 <strong>2025 年度总结</strong> 落笔成文。过去一年，AI 从路旁的观众，悄然爬上副驾驶的座位，甚至在某些路段抢占了方向盘。下面，我把这段“AI 之旅”拆成几章，既有技术的细节，也有心灵的感悟。</p><h2 id="📊-工作篇：AI-成为日常的创意伙伴"><a href="#📊-工作篇：AI-成为日常的创意伙伴" class="headerlink" title="📊 工作篇：AI 成为日常的创意伙伴"></a>📊 工作篇：AI 成为日常的创意伙伴</h2><h3 id="1️⃣-年初的惊喜：Cursor-小程序实验"><a href="#1️⃣-年初的惊喜：Cursor-小程序实验" class="headerlink" title="1️⃣ 年初的惊喜：Cursor 小程序实验"></a>1️⃣ 年初的惊喜：Cursor 小程序实验</h3><ul><li>在 X 平台的社区里，我偶然看到 <strong>Cursor</strong> 的宣传，灵感瞬间点燃，于是决定用它做一个小程序原型。  </li><li>我收集了十余张竞品截图，喂给 Cursor，AI 在短短几分钟内生成了约 <strong>70%</strong> 的功能实现——这比手动敲代码的速度快了一个数量级。  </li><li>这一次，我不再是单纯的提问者，而是与 AI 共同编织代码的合作者，第一次深刻体会到“AI 能写代码”的真实感受。</li></ul><h3 id="2️⃣-编码信任度升级：ChatGPT-与-Claude-成为技术答疑的灯塔"><a href="#2️⃣-编码信任度升级：ChatGPT-与-Claude-成为技术答疑的灯塔" class="headerlink" title="2️⃣ 编码信任度升级：ChatGPT 与 Claude 成为技术答疑的灯塔"></a>2️⃣ 编码信任度升级：ChatGPT 与 Claude 成为技术答疑的灯塔</h3><ul><li>工作中遇到的每一个技术难题，我都会先抛给 <strong>ChatGPT</strong> 或 <strong>Claude</strong>，它们的答案往往比搜索引擎更精准、更贴合业务。  </li><li>这种即时的“技术助理”让我的信任度急速提升，也把 AI 自然嵌入了每日的开发流程。</li></ul><h3 id="3️⃣-7-月的突破：全程-AI-开发-iOS-应用"><a href="#3️⃣-7-月的突破：全程-AI-开发-iOS-应用" class="headerlink" title="3️⃣ 7 月的突破：全程 AI 开发 iOS 应用"></a>3️⃣ 7 月的突破：全程 AI 开发 iOS 应用</h3><ul><li>我把 <strong>Cursor</strong> 与 <strong>Claude</strong> 组合使用，分别完成了 <strong>拼字集</strong> 与 <strong>CopoHub</strong> 两款 iOS 应用的全链路交付——从需求、UI 设计、代码生成到 App Store 审核，<strong>没有写过一行代码</strong>。  </li><li>这一次，我确信 AI 已经从“可用”跃升到“可依赖”，于是决定在接下来的项目中彻底拥抱它。</li></ul><h3 id="4️⃣-公司内部的-AI-推广与测评"><a href="#4️⃣-公司内部的-AI-推广与测评" class="headerlink" title="4️⃣ 公司内部的 AI 推广与测评"></a>4️⃣ 公司内部的 AI 推广与测评</h3><ul><li>我向同事们分享了这些成功案例，虽然接受度参差不齐，但公司随后启动了 <strong>通义灵码</strong> 的内部推广计划。我负责一次全链路测评，结果显示通义灵码的补全能力有限，无法发挥 AI 编码的全部潜力。  </li><li>这次测评让我认识到：工具本身固然重要，真正的价值在于 <strong>工作流的设计</strong> 与 <strong>团队的接受度</strong>。</li></ul><h3 id="5️⃣-8-月的跨平台实验：HarmonyOS-重构"><a href="#5️⃣-8-月的跨平台实验：HarmonyOS-重构" class="headerlink" title="5️⃣ 8 月的跨平台实验：HarmonyOS 重构"></a>5️⃣ 8 月的跨平台实验：HarmonyOS 重构</h3><ul><li>受 <strong>华为鸿蒙激励计划</strong> 的吸引，我把之前的 iOS 项目迁移到 <strong>HarmonyOS</strong>。在没有任何鸿蒙经验的前提下，凭借 AI 的代码生成与文档翻译，我在两个月内完成了 <strong>CopoHub</strong> 的上架，并实现了多次迭代，收获了一批忠实用户。  </li><li>这段经历让我深刻体会到：<strong>AI 能把技术鸿沟压平，让“不会”变成“会”。</strong></li></ul><h3 id="6️⃣-Vibe-Coding-与工作流探索"><a href="#6️⃣-Vibe-Coding-与工作流探索" class="headerlink" title="6️⃣ Vibe Coding 与工作流探索"></a>6️⃣ Vibe Coding 与工作流探索</h3><ul><li>我尝试了 <strong>Vibe Coding</strong>、<strong>Claude Code</strong>、<strong>Codex</strong> 等前沿工作流，逐步形成了 <strong>“需求 → Prompt → 代码 → 评审 → 部署”</strong> 的闭环。  </li><li>这些实践不仅提升了个人效率，也帮助团队在 AI 时代保持竞争力。</li></ul><h3 id="7️⃣-行业洞察与分享"><a href="#7️⃣-行业洞察与分享" class="headerlink" title="7️⃣ 行业洞察与分享"></a>7️⃣ 行业洞察与分享</h3><ul><li>我持续追踪大模型的最新进展，阅读了多位行业大咖的技术博客，并在公司内部组织了 <strong>AI 前沿技术分享会</strong>，让同事们了解最新的模型能力与应用场景。</li></ul><h3 id="8️⃣-年底的全栈探索：从移动到全栈再到插件"><a href="#8️⃣-年底的全栈探索：从移动到全栈再到插件" class="headerlink" title="8️⃣ 年底的全栈探索：从移动到全栈再到插件"></a>8️⃣ 年底的全栈探索：从移动到全栈再到插件</h3><ul><li>在 AI 的加持下，我跨足后端、前端、Flutter，先后推出了 <strong>Github Daily</strong>、<strong>PromptCollection</strong>、<strong>KnowFlow</strong>、<strong>HuarenVideoDownloader</strong>（Chrome 插件）以及 <strong>Polyglot</strong>（多语言翻译）等项目。  </li><li>这些项目大多是我之前不熟悉的领域，却在 AI 的帮助下快速落地，真正体会到 <strong>“技术鸿沟被 AI 抹平”</strong>。</li></ul><blockquote><p><strong>技术不再是瓶颈</strong>，创意、设计与商业模式才是下一步的关键。</p></blockquote><h2 id="📈-心得体会：AI-已成副驾驶，技术已成副业"><a href="#📈-心得体会：AI-已成副驾驶，技术已成副业" class="headerlink" title="📈 心得体会：AI 已成副驾驶，技术已成副业"></a>📈 心得体会：AI 已成副驾驶，技术已成副业</h2><ul><li><strong>技术重要性下降</strong>：AI 已经可以承担大部分编码工作，技术本身不再是唯一竞争力。  </li><li><strong>AI 不是全自动驾驶</strong>：它更像是 <strong>Copilot</strong>，我们仍是 <strong>副驾驶</strong>，负责创意、决策与业务方向。  </li><li><strong>全栈+AI 将成主流</strong>：美团等大厂已经在推动前端全栈化，配合 AI 辅助，开发效率将指数级提升。  </li><li><strong>对大龄技术人</strong>：如果仍抵触 AI，风险极大；拥抱 AI 才能保持竞争力。</li></ul><h3 id="展望-2026"><a href="#展望-2026" class="headerlink" title="展望 2026"></a>展望 2026</h3><ul><li>AI 的发展速度仍难以预测，或许会出现更快的突破。  </li><li>我期待 AI 能在 <strong>自动化测试、代码审查、架构设计</strong> 上提供更深层次的帮助。  </li><li>同时，我会继续探索 <strong>AI 与业务结合</strong> 的新模式，让技术服务于更大的商业价值。</li></ul><h2 id="🏡-生活篇：AI-与家庭的平衡"><a href="#🏡-生活篇：AI-与家庭的平衡" class="headerlink" title="🏡 生活篇：AI 与家庭的平衡"></a>🏡 生活篇：AI 与家庭的平衡</h2><ul><li><strong>孩子上幼儿园</strong>，我开始更多参与孩子的教育与成长，AI 也帮助我快速查找教育资源、制定学习计划。  </li><li>工作与家庭的时间分配更加合理，AI 的高效让我有更多时间陪伴家人。</li></ul><h2 id="📚-阅读篇：全栈式阅读计划"><a href="#📚-阅读篇：全栈式阅读计划" class="headerlink" title="📚 阅读篇：全栈式阅读计划"></a>📚 阅读篇：全栈式阅读计划</h2><ul><li>过去一年，我的阅读偏科，主要聚焦在 <strong>历史</strong>。  </li><li>2026 年，我计划 <strong>全栈阅读</strong>：技术、商业、心理学、文学等多维度，避免单一视角。</li></ul><h2 id="🎮-游戏篇：从沉迷到-AI-时代的转变"><a href="#🎮-游戏篇：从沉迷到-AI-时代的转变" class="headerlink" title="🎮 游戏篇：从沉迷到 AI 时代的转变"></a>🎮 游戏篇：从沉迷到 AI 时代的转变</h2><ul><li>年初沉迷《<strong>塞尔达旷野之息</strong>》，中期玩了 100 小时的 <strong>老头环</strong>。  </li><li>年末因为 AI 项目占据了大部分时间，游戏时间大幅下降，仅偶尔玩玩 <strong>《三国战纪·风云再起》</strong> 进行放松。</li></ul><h2 id="📊-数据可视化"><a href="#📊-数据可视化" class="headerlink" title="📊 数据可视化"></a>📊 数据可视化</h2><p>2025年Github数据</p><p><img src="/images/github_contributions.png" alt="2025年Github贡献表" loading="lazy"></p><p><img src="/images/github_wrapped.png" alt="2025年Github数据" loading="lazy"></p><hr><blockquote><p><strong>写在最后</strong>：AI 已经不再是工具，而是我的 <strong>合作伙伴</strong>。在新的一年，我将继续让 AI 与创意、商业、生活深度融合，共同迎接未知的可能。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2026 年的第一缕晨光洒在键盘上，我终于把迟来的 &lt;strong&gt;2025 年度总结&lt;/strong&gt; 落笔成文。过去一年，AI 从路旁的观众，悄然爬上副驾驶的座位，甚至在某些路段抢占了方向盘。下面，我把这段“AI 之旅”拆成几章，既有技术的细节，也有心灵的感悟。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="AI" scheme="https://fq6825.top/tags/AI/"/>
+    
+    <category term="工作" scheme="https://fq6825.top/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+    <category term="心得" scheme="https://fq6825.top/tags/%E5%BF%83%E5%BE%97/"/>
+    
+    <category term="生活" scheme="https://fq6825.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="阅读" scheme="https://fq6825.top/tags/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="游戏" scheme="https://fq6825.top/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+</feed>
