@@ -15,6 +15,8 @@ tags:
 
 所以我想做一个「平替」：不是替代真正的乐高，也不是做一个官方品牌相关的东西，而是替代那个“随时拿出一套新玩具、按步骤拼起来、拼完还能展示”的场景。孩子想玩的时候，打开手机或平板，就能选一个模型，一步一步把它拼出来。
 
+![Jimu intro](/images/jimu-blog/jimu_intro.png)
+
 这就是 Jimu。
 
 ![Jimu 的 3D 拼搭界面，正在按步骤高亮零件](/images/jimu-blog/jimu-build-stage.jpg)
