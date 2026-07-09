@@ -2,6 +2,7 @@
 layout: post
 title: 给儿子做一个乐高玩具平替：Jimu 的两周开发记录
 date: 2026-07-09 15:34:25
+description: 两周加班加点做出 Jimu 这款 3D 积木拼搭 App 的开发记录：它源于给儿子的一个乐高玩具平替想法，也终于变成了孩子每天吵着要玩的应用。
 tags:
   - Jimu
   - AI开发

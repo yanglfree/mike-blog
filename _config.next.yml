@@ -160,6 +160,9 @@ post_meta:
   updated_at:
     enable: false
 
+excerpt_description: true
+read_more_btn: true
+
 symbols_count_time:
   separated_meta: true
   item_text_total: true
